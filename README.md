@@ -1,12 +1,5 @@
 # Raspberry pi pico y LED
 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ## Materiales
 - Raspberry pi pico
 - Protoboard
