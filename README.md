@@ -44,3 +44,9 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![]( https://img.shields.io/github/followers/victorgjacobo)
+![](https://img.shields.io/github/stars/victorgjacobo/raspberrypipico_LED)
+![](https://img.shields.io/github/watchers/victorgjacobo/raspberrypipico_LED)
