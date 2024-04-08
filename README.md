@@ -24,7 +24,6 @@ from machine import Pin
 import utime
 
 ### Declaración de los pines físicos
-led_raspi = Pin(25, Pin.OUT)  
 LED = Pin(0, Pin.OUT)
 
 estado = 0
@@ -32,9 +31,8 @@ estado = 0
 def main():
     print("Inicio del programa")
     while True:
-        led_raspi.toggle()
         LED.toggle()
-        estado = led_raspi.value()
+        estado = LED.value()
         if estado == 1:
             print("Encendido")
         else:
